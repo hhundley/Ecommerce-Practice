@@ -125,7 +125,7 @@ router.delete('/:id', (req, res) => {
     where: {id: req.params.id}
   })
     .then(productData => {
-      if (!categoryData) {
+      if (!productData) {
         res.status(404).json({ message: 'Category not found.' });
         return;
       }
