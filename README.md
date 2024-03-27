@@ -5,10 +5,6 @@
   ## Description
   Using starter code, the backend of an ecommerce platform was built using Sequelize, mysql, express, and dotenv.
 
-  ## Screen Recordings
-  * [Pt 1](https://drive.google.com/file/d/1LLII9TM7WIOyeXjV4R2f-sVRGbtsfmEA/view)
-  * [Pt 2](https://drive.google.com/file/d/1WspkuaGUljhrg_qOV9shahN98cnqyiqf/view)
-  
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
