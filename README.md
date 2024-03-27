@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  Using starter code, the backend of an ecommerce platform was built using Sequelize, mysql, express, and dotenv.
+  The backend of an ecommerce platform built from scratch using Sequelize, mysql, express, and dotenv.
 
   ## Table of Contents
   * [Installation](#installation)
